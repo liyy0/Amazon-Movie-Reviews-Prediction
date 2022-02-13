@@ -28,5 +28,5 @@ In general, Naive Bayes is a good way to start the prediction project since it c
 More detailed comparison are in the `Report_liyy.pdf` file.
 
 ## Dataset Citation
-
+https://drive.google.com/drive/folders/1TGj8-EogM9MmPB8cMfFvmSsFqAeaJEae?usp=sharing
 J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013
