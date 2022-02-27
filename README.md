@@ -15,8 +15,7 @@ HelpfulnessNumerator - number of users who found the review helpful
 8. Id - a unique identifier associated with a review
 
 ## Model Applied
-Before appling models, I applied some common NLP model to turn words into numeric matrix and clean the data, including Vectorizing the word and finding the stem of each English words.
-I applied 4 different model onto the dataset: KNN, Naive Bayes, SVM and Logistic Regression and made some adjustment and evaluation based on their performances.
+Before applying models, I applied some common NLP models to turn reviews (natural language) into numeric matrices and clean the data, including Vectorizing the word and finding the stem of each English word. I applied 4 different models onto the dataset: KNN, Naive Bayes, SVM, and Logistic Regression, and made some adjustments and evaluation based on their performances.
 1. `predict-constant.py` to predict the same score for all rows in the test set
 2. `predict-knn.py` to predict the score using KNN
 3. `Naive Bayes.ipynb` to predict the score using KNN
